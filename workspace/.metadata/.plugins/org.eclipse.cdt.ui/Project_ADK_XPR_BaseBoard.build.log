@@ -1,0 +1,12 @@
+14:26:19 **** Build of configuration Debug for project Project_ADK_XPR_BaseBoard ****
+make all 
+Building file: ../src/Lib/AndroidAccessoryCommands.c
+Invoking: MCU C Compiler
+arm-none-eabi-gcc -DARCH=ARCH_LPC -D__LPC17XX__ -DUSB_HOST_ONLY -D__REDLIB__ -DDEBUG -D__CODE_RED -D__USE_CMSIS=CMSISv2p00_LPC17xx -I"C:\Users\Thiago Rocha\Documents\LPCXpresso_6.1.4_194\workspace\Project_ADK_XPR_BaseBoard" -I"C:\Users\Thiago Rocha\Documents\LPCXpresso_6.1.4_194\workspace\Project_ADK_XPR_BaseBoard\src\EaBaseBoard" -O0 -g3 -Wall -c -fmessage-length=0 -fno-builtin -ffunction-sections -fdata-sections  -std=gnu99 -mcpu=cortex-m3 -mthumb -MMD -MP -MF"src/Lib/AndroidAccessoryCommands.d" -MT"src/Lib/AndroidAccessoryCommands.d" -o "src/Lib/AndroidAccessoryCommands.o" "../src/Lib/AndroidAccessoryCommands.c"
+In file included from ../src/Lib/AndroidAccessoryCommands.c:37:0:
+../src/Lib/AndroidAccessoryCommands.h:44:19: fatal error: USB.h: No such file or directory
+compilation terminated.
+make: *** [src/Lib/AndroidAccessoryCommands.o] Error 1
+
+14:26:20 Build Finished (took 1s.41ms)
+

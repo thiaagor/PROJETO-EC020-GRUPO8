@@ -1,0 +1,823 @@
+Archive member included because of file (symbol)
+
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                              ./src/cr_startup_lpc17.o (SystemInit)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                              ./src/main.o (oled_init)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                              C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (font5x7)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                              ./src/main.o (ADC_Init)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                              C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o) (CLKPWR_GetPCLK)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                              C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (GPIO_SetDir)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                              ./src/main.o (I2C_Init)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                              ./src/main.o (PINSEL_ConfigPin)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                              ./src/main.o (SSP_Init)
+C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                              ./src/main.o (Timer0_Wait)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                              C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o) (__aeabi_uldivmod)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__gnu_uldivmod_helper)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o) (__divdi3)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+                              c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o) (__udivdi3)
+c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                              C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o) (memset)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .data          0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .bss           0x00000000        0x0 ./src/cr_startup_lpc17.o
+ .text          0x00000000        0x0 ./src/main.o
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .bss           0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000      0x2d0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_line
+                0x00000000      0x1d4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_circle
+                0x00000000      0x32c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_rect
+                0x00000000       0x48 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .bss           0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .bss           0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text.ADC_DeInit
+                0x00000000       0x48 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text.ADC_GetData
+                0x00000000       0x38 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text.ADC_BurstCmd
+                0x00000000       0x50 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text.ADC_PowerdownCmd
+                0x00000000       0x50 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text.ADC_EdgeStartConfig
+                0x00000000       0x6c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text.ADC_GlobalGetData
+                0x00000000       0x48 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text.ADC_GlobalGetStatus
+                0x00000000       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .bss           0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.__WFI    0x00000000        0xc C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_Sleep
+                0x00000000       0x1c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepSleep
+                0x00000000       0x28 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_PowerDown
+                0x00000000       0x28 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text.CLKPWR_DeepPowerDown
+                0x00000000       0x28 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .bss           0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordGetPointer
+                0x00000000       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteGetPointer
+                0x00000000       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_ReadValue
+                0x00000000       0x30 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetDir
+                0x00000000       0x28 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetValue
+                0x00000000       0x20 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ClearValue
+                0x00000000       0x20 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ReadValue
+                0x00000000       0x20 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_SetMask
+                0x00000000       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetDir
+                0x00000000       0x94 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetMask
+                0x00000000       0x94 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordSetValue
+                0x00000000       0x40 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordClearValue
+                0x00000000       0x40 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_HalfWordReadValue
+                0x00000000       0x44 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetDir
+                0x00000000       0x70 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetMask
+                0x00000000       0x78 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteSetValue
+                0x00000000       0x3c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteClearValue
+                0x00000000       0x3c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.FIO_ByteReadValue
+                0x00000000       0x40 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .bss           0x00000000       0x24 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.NVIC_EnableIRQ
+                0x00000000       0x38 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.NVIC_DisableIRQ
+                0x00000000       0x3c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_getNum
+                0x00000000       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_Start
+                0x00000000       0x44 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_Stop
+                0x00000000       0x38 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SendByte
+                0x00000000       0x50 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_GetByte
+                0x00000000       0x5c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_IntCmd
+                0x00000000       0xa8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MasterHandler
+                0x00000000      0x408 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SlaveHandler
+                0x00000000      0x1e4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_DeInit
+                0x00000000       0xa4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MasterTransferData
+                0x00000000      0x390 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SlaveTransferData
+                0x00000000      0x2a4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_SetOwnSlaveAddr
+                0x00000000      0x114 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorModeConfig
+                0x00000000       0x98 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorModeCmd
+                0x00000000       0x8c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C_MonitorGetDatabuffer
+                0x00000000       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C0_StdIntHandler
+                0x00000000       0x1c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C1_StdIntHandler
+                0x00000000       0x1c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text.I2C2_StdIntHandler
+                0x00000000       0x1c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .bss           0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_ConfigTraceFunc
+                0x00000000       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text.PINSEL_SetI2C0Pins
+                0x00000000       0x3c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_DeInit
+                0x00000000       0x74 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_LoopBackCmd
+                0x00000000       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_SlaveOutputCmd
+                0x00000000       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetStatus
+                0x00000000       0x84 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_IntConfig
+                0x00000000       0x98 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetRawIntStatus
+                0x00000000       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_GetIntStatus
+                0x00000000       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_ClearIntPending
+                0x00000000       0x60 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_DMACmd
+                0x00000000       0xa8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP0_StdIntHandler
+                0x00000000       0x1c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP1_StdIntHandler
+                0x00000000       0x1c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .data          0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .bss           0x00000000        0x0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetIntCaptureStatus
+                0x00000000       0xb8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ClearIntCapturePending
+                0x00000000       0xa4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigStructInit
+                0x00000000       0x40 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_DeInit
+                0x00000000       0xc4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ResetCounter
+                0x00000000       0x6c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_ConfigCapture
+                0x00000000      0x108 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.TIM_GetCaptureValue
+                0x00000000       0x84 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .text.Timer0_us_Wait
+                0x00000000       0x8c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.extab     0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .text          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash512        0x00000000         0x00080000         xr
+RamLoc32         0x10000000         0x00008000         xrw
+RamAHB32         0x2007c000         0x00008000         xrw
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./src/cr_startup_lpc17.o
+LOAD ./src/main.o
+LOAD C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a
+LOAD C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a
+LOAD C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a
+START GROUP
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libm.a
+LOAD c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libcr_newlib_semihost.a
+END GROUP
+                0x00080000                __top_MFlash512 = 0x80000
+                0x10008000                __top_RamLoc32 = 0x10008000
+                0x20084000                __top_RamAHB32 = 0x20084000
+
+.text           0x00000000     0x34fc
+ FILL mask 0xff
+                0x00000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x00000000       0xcc ./src/cr_startup_lpc17.o
+                0x00000000                g_pfnVectors
+                0x000000cc                . = ALIGN (0x4)
+                0x000000cc                __section_table_start = .
+                0x000000cc                __data_section_table = .
+                0x000000cc        0x4 LONG 0x3504 LOADADDR (.data)
+                0x000000d0        0x4 LONG 0x10000000 ADDR (.data)
+                0x000000d4        0x4 LONG 0x8 SIZEOF (.data)
+                0x000000d8        0x4 LONG 0x3504 LOADADDR (.data_RAM2)
+                0x000000dc        0x4 LONG 0x2007c000 ADDR (.data_RAM2)
+                0x000000e0        0x4 LONG 0x0 SIZEOF (.data_RAM2)
+                0x000000e4                __data_section_table_end = .
+                0x000000e4                __bss_section_table = .
+                0x000000e4        0x4 LONG 0x10000008 ADDR (.bss)
+                0x000000e8        0x4 LONG 0x324 SIZEOF (.bss)
+                0x000000ec        0x4 LONG 0x2007c000 ADDR (.bss_RAM2)
+                0x000000f0        0x4 LONG 0x0 SIZEOF (.bss_RAM2)
+                0x000000f4                __bss_section_table_end = .
+                0x000000f4                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text.ResetISR
+                0x000000f4       0x68 ./src/cr_startup_lpc17.o
+                0x000000f4                ResetISR
+ .text.NMI_Handler
+                0x0000015c        0x8 ./src/cr_startup_lpc17.o
+                0x0000015c                NMI_Handler
+ .text.HardFault_Handler
+                0x00000164        0x8 ./src/cr_startup_lpc17.o
+                0x00000164                HardFault_Handler
+ .text.MemManage_Handler
+                0x0000016c        0x8 ./src/cr_startup_lpc17.o
+                0x0000016c                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000174        0x8 ./src/cr_startup_lpc17.o
+                0x00000174                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000017c        0x8 ./src/cr_startup_lpc17.o
+                0x0000017c                UsageFault_Handler
+ .text.SVCall_Handler
+                0x00000184        0x8 ./src/cr_startup_lpc17.o
+                0x00000184                SVCall_Handler
+ .text.DebugMon_Handler
+                0x0000018c        0x8 ./src/cr_startup_lpc17.o
+                0x0000018c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x00000194        0x8 ./src/cr_startup_lpc17.o
+                0x00000194                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000019c        0x8 ./src/cr_startup_lpc17.o
+                0x0000019c                SysTick_Handler
+ .text.IntDefaultHandler
+                0x000001a4        0x8 ./src/cr_startup_lpc17.o
+                0x000001a4                TIMER2_IRQHandler
+                0x000001a4                RIT_IRQHandler
+                0x000001a4                I2C0_IRQHandler
+                0x000001a4                USBActivity_IRQHandler
+                0x000001a4                PWM1_IRQHandler
+                0x000001a4                I2C1_IRQHandler
+                0x000001a4                EINT2_IRQHandler
+                0x000001a4                UART1_IRQHandler
+                0x000001a4                EINT3_IRQHandler
+                0x000001a4                CANActivity_IRQHandler
+                0x000001a4                TIMER3_IRQHandler
+                0x000001a4                UART0_IRQHandler
+                0x000001a4                IntDefaultHandler
+                0x000001a4                PLL0_IRQHandler
+                0x000001a4                CAN_IRQHandler
+                0x000001a4                PLL1_IRQHandler
+                0x000001a4                SSP0_IRQHandler
+                0x000001a4                I2S_IRQHandler
+                0x000001a4                I2C2_IRQHandler
+                0x000001a4                RTC_IRQHandler
+                0x000001a4                TIMER0_IRQHandler
+                0x000001a4                SPI_IRQHandler
+                0x000001a4                EINT1_IRQHandler
+                0x000001a4                TIMER1_IRQHandler
+                0x000001a4                UART2_IRQHandler
+                0x000001a4                ADC_IRQHandler
+                0x000001a4                SSP1_IRQHandler
+                0x000001a4                USB_IRQHandler
+                0x000001a4                BOD_IRQHandler
+                0x000001a4                WDT_IRQHandler
+                0x000001a4                QEI_IRQHandler
+                0x000001a4                EINT0_IRQHandler
+                0x000001a4                DMA_IRQHandler
+                0x000001a4                UART3_IRQHandler
+                0x000001a4                MCPWM_IRQHandler
+                0x000001a4                ENET_IRQHandler
+ .text.intToString
+                0x000001ac       0xdc ./src/main.o
+ .text.init_ssp
+                0x00000288       0x98 ./src/main.o
+ .text.init_i2c
+                0x00000320       0x5c ./src/main.o
+ .text.init_adc
+                0x0000037c       0x70 ./src/main.o
+ .text.main     0x000003ec       0xdc ./src/main.o
+                0x000003ec                main
+ .text.check_failed
+                0x000004c8        0xc ./src/main.o
+                0x000004c8                check_failed
+ .text.SystemInit
+                0x000004d4      0x22c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x000004d4                SystemInit
+ .text.writeCommand
+                0x00000700       0x60 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeData
+                0x00000760       0x60 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.writeDataLen
+                0x000007c0       0x8c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.runInitSequence
+                0x0000084c      0x118 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.hLine    0x00000964       0x4c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.vLine    0x000009b0       0x4c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .text.oled_init
+                0x000009fc       0x9c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x000009fc                oled_init
+ .text.oled_putPixel
+                0x00000a98      0x188 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00000a98                oled_putPixel
+ .text.oled_fillRect
+                0x00000c20       0x90 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00000c20                oled_fillRect
+ .text.oled_clearScreen
+                0x00000cb0       0x74 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00000cb0                oled_clearScreen
+ .text.oled_putChar
+                0x00000d24       0xf0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00000d24                oled_putChar
+ .text.oled_putString
+                0x00000e14       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                0x00000e14                oled_putString
+ .text.ADC_Init
+                0x00000e68       0x94 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                0x00000e68                ADC_Init
+ .text.ADC_StartCmd
+                0x00000efc       0x90 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                0x00000efc                ADC_StartCmd
+ .text.ADC_IntConfig
+                0x00000f8c       0xb4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                0x00000f8c                ADC_IntConfig
+ .text.ADC_ChannelCmd
+                0x00001040       0x70 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                0x00001040                ADC_ChannelCmd
+ .text.ADC_ChannelGetData
+                0x000010b0       0x58 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                0x000010b0                ADC_ChannelGetData
+ .text.ADC_ChannelGetStatus
+                0x00001108       0x8c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                0x00001108                ADC_ChannelGetStatus
+ .text.CLKPWR_SetPCLKDiv
+                0x00001194       0xcc C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00001194                CLKPWR_SetPCLKDiv
+ .text.CLKPWR_GetPCLKSEL
+                0x00001260       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00001260                CLKPWR_GetPCLKSEL
+ .text.CLKPWR_GetPCLK
+                0x000012b4       0x74 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x000012b4                CLKPWR_GetPCLK
+ .text.CLKPWR_ConfigPPWR
+                0x00001328       0x78 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                0x00001328                CLKPWR_ConfigPPWR
+ .text.GPIO_GetPointer
+                0x000013a0       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .text.GPIO_SetDir
+                0x0000141c       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x0000141c                GPIO_SetDir
+ .text.GPIO_SetValue
+                0x00001470       0x2c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x00001470                GPIO_SetValue
+ .text.GPIO_ClearValue
+                0x0000149c       0x2c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                0x0000149c                GPIO_ClearValue
+ .text.I2C_SetClock
+                0x000014c8       0xc8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x000014c8                I2C_SetClock
+ .text.I2C_Init
+                0x00001590       0xd8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00001590                I2C_Init
+ .text.I2C_Cmd  0x00001668       0x84 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                0x00001668                I2C_Cmd
+ .text.PINSEL_SetPinFunc
+                0x000016ec       0x9c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x000016ec                PINSEL_SetPinFunc
+ .text.PINSEL_SetResistorMode
+                0x00001788       0x9c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x00001788                PINSEL_SetResistorMode
+ .text.PINSEL_SetOpenDrainMode
+                0x00001824       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x00001824                PINSEL_SetOpenDrainMode
+ .text.PINSEL_ConfigPin
+                0x000018a0       0x54 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                0x000018a0                PINSEL_ConfigPin
+ .text.SSP_getNum
+                0x000018f4       0x40 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .text.SSP_IntHandler
+                0x00001934      0x338 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001934                SSP_IntHandler
+ .text.SSP_SetClock
+                0x00001c6c       0xf8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001c6c                SSP_SetClock
+ .text.SSP_Init
+                0x00001d64      0x10c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001d64                SSP_Init
+ .text.SSP_ConfigStructInit
+                0x00001e70       0x48 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001e70                SSP_ConfigStructInit
+ .text.SSP_Cmd  0x00001eb8       0x7c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001eb8                SSP_Cmd
+ .text.SSP_SendData
+                0x00001f34       0x48 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001f34                SSP_SendData
+ .text.SSP_ReceiveData
+                0x00001f7c       0x44 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001f7c                SSP_ReceiveData
+ .text.SSP_ReadWrite
+                0x00001fc0      0x440 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                0x00001fc0                SSP_ReadWrite
+ .text.TIM_GetPClock
+                0x00002400       0x68 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002400                TIM_GetPClock
+ .text.TIM_ConverUSecToVal
+                0x00002468       0x64 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002468                TIM_ConverUSecToVal
+ .text.TIM_ConverPtrToTimeNum
+                0x000024cc       0x6c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000024cc                TIM_ConverPtrToTimeNum
+ .text.TIM_GetIntStatus
+                0x00002538       0xb4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002538                TIM_GetIntStatus
+ .text.TIM_ClearIntPending
+                0x000025ec       0xa0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000025ec                TIM_ClearIntPending
+ .text.TIM_Init
+                0x0000268c      0x1bc C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x0000268c                TIM_Init
+ .text.TIM_Cmd  0x00002848       0x78 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002848                TIM_Cmd
+ .text.TIM_ConfigMatch
+                0x000028c0      0x19c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000028c0                TIM_ConfigMatch
+ .text.Timer0_Wait
+                0x00002a5c       0x8c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x00002a5c                Timer0_Wait
+ .text          0x00002ae8       0x2c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+                0x00002ae8                __aeabi_uldivmod
+ .text          0x00002b14       0x5c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+                0x00002b14                __gnu_ldivmod_helper
+                0x00002b44                __gnu_uldivmod_helper
+ .text          0x00002b70        0x4 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+                0x00002b70                __aeabi_idiv0
+                0x00002b70                __aeabi_ldiv0
+ .text          0x00002b74      0x2c8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+                0x00002b74                __divdi3
+ .text          0x00002e3c      0x298 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+                0x00002e3c                __udivdi3
+ .text.memset   0x000030d4       0x90 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+                0x000030d4                memset
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata        0x00003164       0x30 ./src/main.o
+ .rodata        0x00003194        0x8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .rodata        0x0000319c      0x300 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                0x0000319c                font5x7
+ .rodata        0x0000349c       0x18 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .rodata        0x000034b4       0x18 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .rodata        0x000034cc       0x18 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .rodata        0x000034e4       0x18 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                0x000034fc                . = ALIGN (0x4)
+
+.glue_7         0x000034fc        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x000034fc        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x000034fc        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x000034fc        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x000034fc                __exidx_start = .
+
+.ARM.exidx      0x000034fc        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000034fc        0x8 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.exidx     0x00003504        0x0 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x00003504                __exidx_end = .
+                0x00003504                _etext = .
+
+.data_RAM2      0x2007c000        0x0 load address 0x00003504
+ FILL mask 0xff
+ *(.data.$RAM2*)
+ *(.data.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.uninit_RESERVED
+                0x10000000        0x0
+ *(.bss.$RESERVED*)
+                0x10000000                . = ALIGN (0x4)
+                0x10000000                _end_uninit_RESERVED = .
+
+.data           0x10000000        0x8 load address 0x00003504
+ FILL mask 0xff
+                0x10000000                _data = .
+ *(vtable)
+ *(.data*)
+ .data          0x10000000        0x4 ./src/main.o
+ .data          0x10000004        0x4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                0x10000004                SystemCoreClock
+                0x10000008                . = ALIGN (0x4)
+                0x10000008                _edata = .
+
+.bss_RAM2       0x2007c000        0x0
+ *(.bss.$RAM2*)
+ *(.bss.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.bss            0x10000008      0x324
+                0x10000008                _bss = .
+ *(.bss*)
+ .bss           0x10000008        0xc ./src/main.o
+ .bss           0x10000014      0x300 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .bss           0x10000314       0x18 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ *(COMMON)
+                0x1000032c                . = ALIGN (0x4)
+                0x1000032c                _ebss = .
+                0x1000032c                PROVIDE (end, .)
+
+.noinit_RAM2    0x2007c000        0x0
+ *(.noinit.$RAM2*)
+ *(.noinit.$RamAHB32*)
+                0x2007c000                . = ALIGN (0x4)
+
+.noinit         0x1000032c        0x0
+                0x1000032c                _noinit = .
+ *(.noinit*)
+                0x1000032c                . = ALIGN (0x4)
+                0x1000032c                _end_noinit = .
+                0x1000032c                PROVIDE (_pvHeapStart, .)
+                0x10008000                PROVIDE (_vStackTop, (__top_RamLoc32 - 0x0))
+OUTPUT(bnc_oled.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x504e
+ .debug_info    0x00000000      0x209 ./src/cr_startup_lpc17.o
+ .debug_info    0x00000209      0x65c ./src/main.o
+ .debug_info    0x00000865      0x357 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_info    0x00000bbc      0x97d C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_info    0x00001539       0x65 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_info    0x0000159e      0x61b C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_info    0x00001bb9      0x641 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_info    0x000021fa      0xb95 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_info    0x00002d8f      0xcc3 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_info    0x00003a52      0x4b1 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_info    0x00003f03      0x867 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_info    0x0000476a      0x8e4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.debug_abbrev   0x00000000     0x101c
+ .debug_abbrev  0x00000000       0xb4 ./src/cr_startup_lpc17.o
+ .debug_abbrev  0x000000b4      0x160 ./src/main.o
+ .debug_abbrev  0x00000214       0xce C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_abbrev  0x000002e2      0x1f1 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_abbrev  0x000004d3       0x4b C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_abbrev  0x0000051e      0x13f C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_abbrev  0x0000065d      0x174 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_abbrev  0x000007d1      0x185 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_abbrev  0x00000956      0x24a C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_abbrev  0x00000ba0      0x10a C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_abbrev  0x00000caa      0x1d3 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_abbrev  0x00000e7d      0x19f C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.debug_loc      0x00000000     0x1e6e
+ .debug_loc     0x00000000      0x1f0 ./src/cr_startup_lpc17.o
+ .debug_loc     0x000001f0      0x150 ./src/main.o
+ .debug_loc     0x00000340       0x58 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_loc     0x00000398      0x33e C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_loc     0x000006d6      0x2d8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_loc     0x000009ae      0x1bc C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_loc     0x00000b6a      0x4d0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_loc     0x0000103a      0x4e4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_loc     0x0000151e      0x150 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_loc     0x0000166e      0x448 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_loc     0x00001ab6      0x3b8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.debug_aranges  0x00000000      0x588
+ .debug_aranges
+                0x00000000       0x70 ./src/cr_startup_lpc17.o
+ .debug_aranges
+                0x00000070       0x48 ./src/main.o
+ .debug_aranges
+                0x000000b8       0x28 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_aranges
+                0x000000e0       0x90 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_aranges
+                0x00000170       0x80 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_aranges
+                0x000001f0       0x60 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_aranges
+                0x00000250       0xc8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_aranges
+                0x00000318       0xd0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_aranges
+                0x000003e8       0x48 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_aranges
+                0x00000430       0xb8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_aranges
+                0x000004e8       0xa0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.debug_ranges   0x00000000      0x4d8
+ .debug_ranges  0x00000000       0x60 ./src/cr_startup_lpc17.o
+ .debug_ranges  0x00000060       0x38 ./src/main.o
+ .debug_ranges  0x00000098       0x18 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_ranges  0x000000b0       0x80 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_ranges  0x00000130       0x70 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_ranges  0x000001a0       0x50 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_ranges  0x000001f0       0xb8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_ranges  0x000002a8       0xc0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_ranges  0x00000368       0x38 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_ranges  0x000003a0       0xa8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_ranges  0x00000448       0x90 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.debug_line     0x00000000     0x4235
+ .debug_line    0x00000000      0x372 ./src/cr_startup_lpc17.o
+ .debug_line    0x00000372      0x47f ./src/main.o
+ .debug_line    0x000007f1      0x411 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_line    0x00000c02      0x785 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_line    0x00001387       0x8c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_line    0x00001413      0x602 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_line    0x00001a15      0x4d2 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_line    0x00001ee7      0x5f2 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_line    0x000024d9      0x90d C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_line    0x00002de6      0x471 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_line    0x00003257      0x840 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_line    0x00003a97      0x79e C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.debug_macinfo  0x00000000    0x660f1
+ .debug_macinfo
+                0x00000000     0x2c15 ./src/cr_startup_lpc17.o
+ .debug_macinfo
+                0x00002c15     0xa450 ./src/main.o
+ .debug_macinfo
+                0x0000d065     0x83f8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_macinfo
+                0x0001545d     0xa143 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_macinfo
+                0x0001f5a0     0x332a C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .debug_macinfo
+                0x000228ca     0xa02e C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_macinfo
+                0x0002c8f8     0x95f9 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_macinfo
+                0x00035ef1     0x86b8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_macinfo
+                0x0003e5a9     0xa5d8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_macinfo
+                0x00048b81     0x87d3 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_macinfo
+                0x00051354     0xa8d0 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_macinfo
+                0x0005bc24     0xa4cd C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.debug_str      0x00000000     0x1e36
+ .debug_str     0x00000000      0x1d1 ./src/cr_startup_lpc17.o
+                                0x20b (size before relaxing)
+ .debug_str     0x000001d1      0x375 ./src/main.o
+                                0x49d (size before relaxing)
+ .debug_str     0x00000546      0x1cb C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+                                0x2a6 (size before relaxing)
+ .debug_str     0x00000711      0x278 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+                                0x3bf (size before relaxing)
+ .debug_str     0x00000989       0x11 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+                                 0xca (size before relaxing)
+ .debug_str     0x0000099a      0x243 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+                                0x4dc (size before relaxing)
+ .debug_str     0x00000bdd      0x119 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+                                0x3ac (size before relaxing)
+ .debug_str     0x00000cf6      0x33e C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+                                0x47b (size before relaxing)
+ .debug_str     0x00001034      0x5b6 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+                                0x811 (size before relaxing)
+ .debug_str     0x000015ea      0x214 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+                                0x3b0 (size before relaxing)
+ .debug_str     0x000017fe      0x200 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+                                0x48e (size before relaxing)
+ .debug_str     0x000019fe      0x438 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+                                0x5c4 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./src/cr_startup_lpc17.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./src/main.o
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .comment       0x00000000       0x71 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+
+.ARM.attributes
+                0x00000000       0x33
+ .ARM.attributes
+                0x00000000       0x33 ./src/cr_startup_lpc17.o
+ .ARM.attributes
+                0x00000033       0x33 ./src/main.o
+ .ARM.attributes
+                0x00000066       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .ARM.attributes
+                0x00000099       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .ARM.attributes
+                0x000000cc       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(font5x7.o)
+ .ARM.attributes
+                0x000000ff       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .ARM.attributes
+                0x00000132       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .ARM.attributes
+                0x00000165       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .ARM.attributes
+                0x00000198       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .ARM.attributes
+                0x000001cb       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .ARM.attributes
+                0x000001fe       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .ARM.attributes
+                0x00000231       0x33 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .ARM.attributes
+                0x00000264       0x1d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000281       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x000002ae       0x1d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000002cb       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x000002f8       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000325       0x2d c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)
+
+.debug_frame    0x00000000     0x12ac
+ .debug_frame   0x00000000      0x120 ./src/cr_startup_lpc17.o
+ .debug_frame   0x00000120       0xcc ./src/main.o
+ .debug_frame   0x000001ec       0x48 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug\libCMSISv1p30_LPC17xx.a(system_LPC17xx.o)
+ .debug_frame   0x00000234      0x1ec C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug\libLib_EaBaseBoard.a(oled.o)
+ .debug_frame   0x00000420      0x1ac C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_adc.o)
+ .debug_frame   0x000005cc      0x10c C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_clkpwr.o)
+ .debug_frame   0x000006d8      0x2c4 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_gpio.o)
+ .debug_frame   0x0000099c      0x2c8 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_i2c.o)
+ .debug_frame   0x00000c64       0xbc C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_pinsel.o)
+ .debug_frame   0x00000d20      0x280 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_ssp.o)
+ .debug_frame   0x00000fa0      0x228 C:\Users\aluno.SERVIDORES\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug\libLib_MCU.a(lpc17xx_timer.o)
+ .debug_frame   0x000011c8       0x50 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(bpabi.o)
+ .debug_frame   0x00001218       0x34 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_divdi3.o)
+ .debug_frame   0x0000124c       0x34 c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/armv7-m\libgcc.a(_udivdi3.o)
+ .debug_frame   0x00001280       0x2c c:/nxp/lpcxpresso_6.1.4_194/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.6.2/../../../../arm-none-eabi/lib/armv7-m\libc.a(lib_a-memset.o)

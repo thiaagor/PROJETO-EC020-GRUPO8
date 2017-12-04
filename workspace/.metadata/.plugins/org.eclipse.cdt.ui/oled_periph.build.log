@@ -1,0 +1,16 @@
+13:51:27 **** Build of configuration Debug for project oled_periph ****
+make all 
+Building target: oled_periph.axf
+Invoking: MCU Linker
+arm-none-eabi-gcc -nostdlib -L"C:\Users\Thiago Rocha\Documents\LPCXpresso_6.1.4_194\workspace\Lib_CMSISv1p30_LPC17xx\Debug" -L"C:\Users\Thiago Rocha\Documents\LPCXpresso_6.1.4_194\workspace\Lib_EaBaseBoard\Debug" -L"C:\Users\Thiago Rocha\Documents\LPCXpresso_6.1.4_194\workspace\Lib_MCU\Debug" -Xlinker --gc-sections -Xlinker -Map=oled_periph.map -mcpu=cortex-m3 -mthumb -T "oled_periph_Debug.ld" -o "oled_periph.axf"  ./src/cr_startup_lpc17.o ./src/main.o   -lCMSISv1p30_LPC17xx -lLib_EaBaseBoard -lLib_MCU
+Finished building target: oled_periph.axf
+ 
+make --no-print-directory post-build
+Performing post-build steps
+arm-none-eabi-size oled_periph.axf; # arm-none-eabi-objdump -h -S oled_periph.axf >oled_periph.lss
+   text	   data	    bss	    dec	    hex	filename
+  18564	     16	    848	  19428	   4be4	oled_periph.axf
+ 
+
+13:51:29 Build Finished (took 1s.578ms)
+
